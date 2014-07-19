@@ -9,8 +9,8 @@ Documentation
 
 **Designers**
 
-Mikee Wong 
-Miguel Viejon
+Mikee Wong                                                                                                               
+Miguel Viejon 
 Jerome Cruz
 
 
