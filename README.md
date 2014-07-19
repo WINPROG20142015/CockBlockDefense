@@ -43,22 +43,13 @@ IV. GAMEPLAY
 V. INFORMATION ARCHITECTURE 
 
 VI. CONCEPT ART 
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                                                                                                                                                                                                                                                             
 I. GAME DESCRIPTION
 
 A comedic tower defense game
 
 Game Genre: Strategy Tower defense with Comedic Art Style
-
+                                                                                                                                                                                                                                                                                                                                                                                                                       
 II. GAME FEATURES
 
 - Shows a comedic and sadistic style of gameplay
