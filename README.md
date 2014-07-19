@@ -11,6 +11,7 @@ Designers                       
 
 Mikee Wong  
 Miguel Viejon
+
 Jerome Cruz 
 
 
