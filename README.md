@@ -11,27 +11,21 @@ Documentation
 
 Mikee Wong  
 Miguel Viejon
-
 Jerome Cruz 
 
 
 **Programmers                       **
 
 Gian Legaspi 
-
 Lance De Leon 
-
 Domenico Candano 
-
 Dhom Hussein
 
 
 **Artist                   **
 
 Joseph Aruelo 
-
 Daniel Wong 
-
 Audrey Manabat
 
 
