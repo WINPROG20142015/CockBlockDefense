@@ -77,8 +77,8 @@ II. GAME FEATURES
 
 - Bonus level per 5 waves
 
-- Bonus level – a level where you have a chance to clear to gain extra loot
-- 
+- Bonus level –a level where you have a chance to clear to gain extra loot
+
 
 
 
