@@ -98,6 +98,9 @@ Chooks on the other hand tries to defend his own source of living
 
 by mutating some chicken and making it as genetically enhanced 
 
+
+
+
 IV. GAMEPLAY
 
 • Summary of Gameplay
@@ -146,11 +149,7 @@ game is over.
 
 • Player control
 
--Mouse: mainly used for placing, buying, and 
-
-upgrading towers. Can also be used to interact with 
-
-the user interface or heads up display.
+-Mouse: mainly used for placing, buying, and upgrading towers. Can also be used to interact with the user interface or heads up display.
 
 - Keyboard: can be assigned as shortcuts for buying 
 
