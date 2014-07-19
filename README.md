@@ -10,7 +10,7 @@ Documentation
 Designers                       
 
 Mikee Wong  
-Miguel Viejon 
+Miguel Viejon
 Jerome Cruz 
 
 
