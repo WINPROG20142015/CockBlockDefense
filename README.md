@@ -40,9 +40,6 @@ III. STORY
 
 IV. GAMEPLAY 
 
-V. INFORMATION ARCHITECTURE 
-
-VI. CONCEPT ART 
                                                                                                                                                                                                                                                                                                                                                                              
 I. GAME DESCRIPTION
 
@@ -128,39 +125,39 @@ The game can be played in three difficulty levels: easy, medium, and hard. There
  
 o Easy
 
-ß More starting resources
+- More starting resources
 
-ß 80%-90% health of enemies
+- 80%-90% health of enemies
 
-ß Increased chance of human meat drop rate
+- Increased chance of human meat drop rate
 
-ß Increased gold drop per human kill
+- Increased gold drop per human kill
 
 o Normal
 
-ß Average starting resources
+- Average starting resources
 
-ß 100% health of enemies
+- 100% health of enemies
 
-ß Normal chance of human meat drop rate
+- Normal chance of human meat drop rate
 
-ß normal gold drop per human kill
+- Normal gold drop per human kill
 
 o Hard
 
-ß Less starting resources
+- Less starting resources
 
-ß 110%-120% health of enemies
+- 110%-120% health of enemies
 
-ß low chance of human meat drop rate
+- low chance of human meat drop rate
 
-ß less gold drop per human kill
+- less gold drop per human kill
 
 o Endless
 
-ß follows normal settings for resources
+- follows normal settings for resources
 
-ß Stats of enemies is based on current level
+- Stats of enemies is based on current level
 
 • Environment
 
