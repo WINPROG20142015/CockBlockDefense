@@ -77,27 +77,25 @@ II. GAME FEATURES
 
 - Bonus level per 5 waves
 
-- Bonus level – a level where you have a chance to clear 
+- Bonus level – a level where you have a chance to clear to gain extra loot
+- 
 
-to gain extra loot
+
+
 
 III. STORY
 
-Once there was a small town called Konam, there live a young man 
+Once there was a small town called Konam, there live a young man named Chooks who owns a big poultry business.  
 
-named Chooks who owns a big poultry business, Chooks is a former 
+Chooks is a former ex-convict, a former chemist and a member of a drug syndicate. 
 
-ex-convict, he is a former chemist and a member of a drug syndicate 
+Chooks wanted to start a new life in Konam.
 
-in a big city, however, Chooks wanted to start a new life in Konam, 
+Due of his past, some drug syndicate members are after Chooks. 
 
-because of his past, some drug syndicate members are after Chooks, 
+They intend to destroy Chooks by destroying his poultry business. 
 
-they intend to destroy Chooks by destroying his poultry business, 
-
-Chooks on the other hand tries to defend his own source of living 
-
-by mutating some chicken and making it as genetically enhanced 
+Chooks on the other hand tries to defend his own source of living by mutating some chickens and making it as genetically enhanced. 
 
 
 
