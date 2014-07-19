@@ -111,47 +111,30 @@ The game can be played in three difficulty levels: easy, medium, and hard. There
 
 • Goals of the Game
 
-- The goal of game is to try to stop enemies from 
+- The goal of game is to try to stop enemies from crossing a map by building Chicken towers which shoot at them with eggs as they pass. 
 
-crossing a map by building Chicken towers which shoot 
+- Clear all the enemies in a wave to proceed to the next wave.
 
-at them with eggs as they pass. 
-
-- Clear all the enemies in a wave to proceed to the next 
-
-wave.
-
-- Protect the nest at all cost. If the nest is destroyed, the 
-
-game is over.
+- Protect the nest at all cost. If the nest is destroyed, the game is over.
 
 • Player control
 
--Mouse: mainly used for placing, buying, and upgrading towers. Can also be used to interact with the user interface or heads up display.
+- Mouse: mainly used for placing, buying, and upgrading towers. Can also be used to interact with the user interface or heads up display.
 
-- Keyboard: can be assigned as shortcuts for buying 
-
-towers, upgrading, selling, using special power-ups, 
-
-and pausing the game. 
+- Keyboard: can be assigned as shortcuts for buying towers, upgrading, selling, using special power-ups, and pausing the game. 
 
 • Game Modes
  
  
 o Easy
 
-ß Mo
-re starting resources
+ß More starting resources
 
-ß 80%-90% heal
-th of enemies
-
+ß 80%-90% health of enemies
 
 ß Increased chance of human meat drop rate
 
-ß Increased
-gold drop per hum
-an kill
+ß Increased gold drop per human kill
 
 o Normal
 
@@ -211,17 +194,13 @@ o The nest
 
 ß contains the eggs (life points) of the player.
 
-ß If an enemy successfully reached the nest, 
-
-1 life point is deducted.
+ß If an enemy successfully reached the nest, 1 life point is deducted.
 
 o Farming resources
 
 ß Human meat generator
 
-• gives human meat every X interval of 
-
-time.
+• gives human meat every X interval of time.
 
 • Types of Chicken Tower
 
@@ -265,11 +244,7 @@ o Support Chicken (Rotten Egg Tower)
 
 • Types of Enemies (Humans)
 
-The invaders, which is a mammal categorized as 
-
-humans, are classified into three different groups 
-
-namely: Civilians, Dwarves, and Tanks.
+The invaders, which is a mammal categorized as humans, are classified into three different groups namely: Civilians, Dwarves, and Tanks.
 
 o Civilian
 
@@ -283,17 +258,7 @@ Civilians are the normal class type.
 
 o Dwarf
 
-Dwarves are in the fast category of the 
-
-enemies. You can easily recognize them for 
-
-they are tiny and small. They usually charge in 
-
-larger groups than the normal civilians. But in 
-
-contrary, they have lower health ranks than an 
-
-average civilian.
+Dwarves are in the fast category of the enemies. You can easily recognize them for they are tiny and small. They usually charge in larger groups than the normal civilians. But in contrary, they have lower health ranks than an average civilian.
 
 ß Health points: low
 
@@ -303,21 +268,7 @@ average civilian.
 
 o Tank
 
-Tanks are the supreme type of human 
-
-distinguished as big and buffy, as they are 
-
-wearing armours and helmets in the game. As 
-
-the word itself, tanks are the durable with an 
-
-astounding amount of health points, but are a 
-
-sloppy slow due to the weight of their armours. 
-
-Of course, they are quite fewer in number than 
-
-the average quantity of normal civilians.
+Tanks are the supreme type of human distinguished as big and buffy, as they are wearing armours and helmets in the game. As the word itself, tanks are the durable with an astounding amount of health points, but are a sloppy slow due to the weight of their armours. Of course, they are quite fewer in number than the average quantity of normal civilians.
 
 ß Health points: High
 
