@@ -95,31 +95,19 @@ IV. GAMEPLAY
 
 • Summary of Gameplay
 
-The player must stop a set number of human enemies, 
+The player must stop a set number of human enemies, from reaching the nest. 
 
-from reaching the nest. This is accomplished by 
+This is accomplished by building and upgrading Chicken towers that shoot at, damage and kill the enemies before they are able to reach their objective. 
 
-building and upgrading Chicken towers that shoot at, 
+The enemies come in waves at set intervals. 
 
-damage and kill the enemies before they are able to 
+Each wave of enemies has different characteristics such as movement speed and health.
 
-reach their objective. The enemies come in waves 
+The player begins with a set number of lives, and loses one for each enemy that survives to reach its goal. 
 
-at set intervals. Each wave of enemies has different 
+The game will end early in defeat if the player′s lives reach zero, and it provides no way to regenerate lost lives. 
 
-characteristics such as movement speed and health.
-
-The player begins with a set number of lives, and loses 
-
-one for each enemy that survives to reach its goal. The 
-
-game will end early in defeat if the player′s lives reach 
-
-zero, and it provides no way to regenerate lost lives. 
-
-The game can be played in three difficulty levels: easy, 
-
-medium, and hard. There is also an endless mode.
+The game can be played in three difficulty levels: easy, medium, and hard. There is also an endless mode.
 
 • Goals of the Game
 
