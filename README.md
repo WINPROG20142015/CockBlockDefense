@@ -163,27 +163,25 @@ o Endless
 
 o consists of tiles with different attributes
 
-ß tiles that can contain towers
+- tiles that can contain towers
 
-ß tiles used for enemy path
+- tiles used for enemy path
 
-ß tiles for decorative purposes where 
-
-building towers is disabled.
+- tiles for decorative purposes where building towers is disabled.
 
 • Resources
 
 o Gold
 
-ß drops from killed humans
+- drops from killed humans
 
-ß used to buy upgrades and towers
+- used to buy upgrades and towers
 
 o Human meat
 
-ß drops by chance from killed humans
+- drops by chance from killed humans
 
-ß used to buy special power-ups/skills
+- used to buy special power-ups/skills
 
 • Structures
 
