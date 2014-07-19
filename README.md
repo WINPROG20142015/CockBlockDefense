@@ -7,14 +7,14 @@ Game Design
 
 Documentation
 
-**Designers                       **
+**Designers**
 
 Mikee Wong  
 Miguel Viejon
-Jerome Cruz 
+Jerome Cruz
 
 
-**Programmers                       **
+**Programmers**
 
 Gian Legaspi 
 Lance De Leon 
@@ -22,7 +22,7 @@ Domenico Candano
 Dhom Hussein
 
 
-**Artist                   **
+**Artist**
 
 Joseph Aruelo 
 Daniel Wong 
