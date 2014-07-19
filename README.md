@@ -32,49 +32,50 @@ Audrey Manabat
 
 TABLE OF CONTENTS
 
-I. GAME DESCRIPTION 3
+I. GAME DESCRIPTION 
 
-II. GAME FEATURES 3
+II. GAME FEATURES 
 
-III. STORY 4
+III. STORY 
 
-IV. GAMEPLAY 5
+IV. GAMEPLAY 
 
-V. INFORMATION ARCHITECTURE 10
+V. INFORMATION ARCHITECTURE 
 
-VI. CONCEPT ART 11
+VI. CONCEPT ART 
+
+
+
+
+
+
+
+
+
 
 I. GAME DESCRIPTION
 
 A comedic tower defense game
 
- Game Genre: 
-
-Strategy Tower defense with Comedic Art Style
+Game Genre: Strategy Tower defense with Comedic Art Style
 
 II. GAME FEATURES
 
 - Shows a comedic and sadistic style of gameplay
 
-- Upgradable chicken towers requires strategic positioning 
-
-of towers to protect the nest
+- Upgradable chicken towers requires strategic positioning of towers to protect the nest
 
 - each mode has its own map.
 
 - Includes bosses to add challenge
 
-- Max level of stages depends on the difficulty level 
-
-chosen by the player
+- Max level of stages depends on the difficulty level chosen by the player
 
 - Endless stage 
 
-- Source of income (ex: building farms, clearing enemy 
+- Source of income (ex: building farms, clearing enemy waves, etc.)
 
-waves, etc.)
-
--Bonus level per 5 waves
+- Bonus level per 5 waves
 
 - Bonus level – a level where you have a chance to clear 
 
