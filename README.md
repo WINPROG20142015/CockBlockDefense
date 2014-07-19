@@ -187,13 +187,13 @@ o Human meat
 
 o The nest
 
-ß contains the eggs (life points) of the player.
+- contains the eggs (life points) of the player.
 
-ß If an enemy successfully reached the nest, 1 life point is deducted.
+- If an enemy successfully reached the nest, 1 life point is deducted.
 
 o Farming resources
 
-ß Human meat generator
+- Human meat generator
 
 • gives human meat every X interval of time.
 
@@ -201,41 +201,41 @@ o Farming resources
 
 o Normal Chicken Tower
 
-ß Deals 10 damage per Egg
+- Deals 10 damage per Egg
 
-ß Rate of Fire (Normal)
+- Rate of Fire (Normal)
 
-ß Normal range of fire
+- Normal range of fire
 
 o Fast Chicken Tower (Quail Tower)
 
-ß Deals 3-5 damage per egg
+- Deals 3-5 damage per egg
 
-ß Rate of Fire (fast)
+- Rate of Fire (fast)
 
-ß Long range of fire
+- Long range of fire
 
 o Heavy Artillery Chicken (Ostrich Tower)
 
-ß Deals 20-40 damage per Egg
+- Deals 20-40 damage per Egg
 
-ß Rate of Fire (Slow)
+- Rate of Fire (Slow)
 
-ß AoE Damage
+- AoE Damage
 
-ß Short range of fire
+- Short range of fire
 
 o Support Chicken (Rotten Egg Tower)
 
-ß Deals 5 damage per Egg
+- Deals 5 damage per Egg
 
-ß Rate of Fire (Normal)
+- Rate of Fire (Normal)
 
-ß 20% Speed Reduction
+- 20% Speed Reduction
 
-ß AoE Damage
+- AoE Damage
 
-ß Normal range of fire
+- Normal range of fire
 
 • Types of Enemies (Humans)
 
@@ -245,60 +245,54 @@ o Civilian
 
 Civilians are the normal class type.
 
-ß Health points: normal
+- Health points: normal
 
-ß Movement Speed: normal
+- Movement Speed: normal
 
-ß Quantity: 10
+- Quantity: 10
 
 o Dwarf
 
 Dwarves are in the fast category of the enemies. You can easily recognize them for they are tiny and small. They usually charge in larger groups than the normal civilians. But in contrary, they have lower health ranks than an average civilian.
 
-ß Health points: low
+- Health points: low
 
-ß Movement Speed: fast
+- Movement Speed: fast
 
-ß Quantity: greater than 10
+- Quantity: greater than 10
 
 o Tank
 
 Tanks are the supreme type of human distinguished as big and buffy, as they are wearing armours and helmets in the game. As the word itself, tanks are the durable with an astounding amount of health points, but are a sloppy slow due to the weight of their armours. Of course, they are quite fewer in number than the average quantity of normal civilians.
 
-ß Health points: High
+- Health points: High
 
-ß Movement Speed: slow
+- Movement Speed: slow
 
-ß Quantity: less than 10
+- Quantity: less than 10
 
 • Special Abilities
 
-Chicken Special Skill is one of the features of this 
+Chicken Special Skill is one of the features of this game. 
 
-game. The skill is insanely powerful and useful for 
+The skill is insanely powerful and useful for the user itself, but it is limited only to one use per level. 
 
-the user itself, but it is limited only to one use per 
-
-level. There are three kinds of CSS, each with a 
-
-unique style and effect.
+There are three kinds of CSS, each with a unique style and effect.
 
 o Chicken Goo (global slow)
 
-A very sticky skill that slows all the invaders 
+A very sticky skill that slows all the invaders inside the battlefield.
 
-inside the battlefield.
-
-ß slows all enemies on screen by 25-75%
+- slows all enemies on screen by 25-75%
 
 o Chicken Gorgon (global petrify)
 
 It petrifies all the enemies inside the battlefield.
 
-ß stops all enemies on screen for 3-5 sec
+- stops all enemies on screen for 3-5 sec
 
 o Chicken Nuke
 
 It eliminates all humans in the battlefield.
 
-ß kills all enemies on screen
+- kills all enemies on screen
