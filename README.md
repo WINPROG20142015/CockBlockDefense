@@ -7,7 +7,7 @@ Game Design
 
 Documentation
 
-Designers                       
+**Designers                       **
 
 Mikee Wong  
 Miguel Viejon
@@ -15,7 +15,7 @@ Miguel Viejon
 Jerome Cruz 
 
 
-Programmers                       
+**Programmers                       **
 
 Gian Legaspi 
 
@@ -26,7 +26,7 @@ Domenico Candano
 Dhom Hussein
 
 
-Artist                   
+**Artist                   **
 
 Joseph Aruelo 
 
