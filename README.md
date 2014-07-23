@@ -273,10 +273,8 @@ Tanks are the supreme type of human distinguished as big and buffy, as they are 
 
 • Special Abilities
 
-Chicken Special Skill is one of the features of this game. 
-
+**C**hicken **S**pecial **S**kill is one of the features of this game. 
 The skill is insanely powerful and useful for the user itself, but it is limited only to one use per level. 
-
 There are three kinds of CSS, each with a unique style and effect.
 
 o Chicken Goo (global slow)
