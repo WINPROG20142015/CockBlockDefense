@@ -1,0 +1,4 @@
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\Content\obj\x86\Debug\CockBlockDefenseContent.contentprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\Content\obj\x86\Debug\ResolveAssemblyReference.cache

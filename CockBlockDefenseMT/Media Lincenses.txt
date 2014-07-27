@@ -1,0 +1,13 @@
+For the background music I went to http://ccmixter.org/, where I downloaded the song "Yes", by Elias May, under a Creative Commons Attribution-Noncommercial license.
+
+And for the sound effect I went to The Free Sound Project (http://www.freesound.org/), where I downloaded the sample "comic bite 2.wav" by ggctuk, under a Creative Commons sampling license.
+
+Song:			"Yes"
+Artist:			Elias May - http://ccmixter.org/people/Lingeree
+Lincense:		Creative Commons Attribution-Noncommercial license - http://creativecommons.org/licenses/by-nc/3.0/
+File in project:	Yes.mp3
+
+Song:			comic bite 2
+Artist:			ggctuk - http://www.freesound.org/usersViewSingle.php?id=638065
+Lincense:		Creative Commons Sampling license: http://creativecommons.org/licenses/sampling+/1.
+File in project:	bite.wav

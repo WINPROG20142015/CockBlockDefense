@@ -1,0 +1,3 @@
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\Content\obj\x86\Debug\Tutorial Series 1Content.contentprojResolveAssemblyReference.cache
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache

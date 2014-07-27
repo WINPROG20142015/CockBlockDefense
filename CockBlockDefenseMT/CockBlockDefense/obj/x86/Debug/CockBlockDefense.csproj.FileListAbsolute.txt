@@ -1,0 +1,322 @@
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Cake.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Face.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bite.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\exitButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\startButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\startScreenBg.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile3.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile4.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\h-path.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\gold.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\lives.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\pauseButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\settingUiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\statui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\towersui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\wave.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\waveui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\x2Button.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.wma
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\modeBg.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\backButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\easyButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\endlessButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\hardButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\normalButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.exe
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.pdb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Cake.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Face.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\exitButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\startButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\startScreenBg.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile1.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile2.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile3.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile4.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\grass.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\h-path.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path1.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path2.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\gold.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\lives.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\pauseButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\settingUiButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\statui.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\towersui.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder1.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder2.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\wave.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\waveui.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\x2Button.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\modeBg.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\backButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\easyButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\endlessButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\hardButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\normalButton.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Arial.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bite.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.xnb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.wma
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.exe
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.pdb
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.csprojResolveAssemblyReference.cache
+F:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\exitButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\startButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\startScreenBg.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile1.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile2.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile3.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\designtile4.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\grass.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\h-path.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path1.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Tiles\v-path2.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\gold.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\lives.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\pauseButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\settingUiButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\statui.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\towersui.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder1.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\uiHolder2.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\wave.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\waveui.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\UI\x2Button.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\modeBg.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\backButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\easyButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\endlessButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\hardButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\normalButton.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Arial.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.exe
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\CockBlockDefense.pdb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.exe
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\CockBlockDefense.pdb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Sounds\BgMusic.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Sounds\bite.xnb
+H:\ \sch\winprog\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Sounds\BgMusic.wma
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Arial.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\exitButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\startButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\startScreenBg.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile1.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile2.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile3.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile4.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\grass.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\h-path.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path1.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path2.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\gold.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\lives.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\pauseButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\settingUiButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\statui.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\towersui.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder1.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder2.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\wave.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\waveui.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\x2Button.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\modeBg.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\backButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\easyButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\endlessButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\hardButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\normalButton.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\bite.xnb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.wma
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.exe
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.pdb
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.exe
+H:\ \sch\winprog\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.pdb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\exitButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\startButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\startScreenBg.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile1.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile2.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile3.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile4.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\h-path.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path1.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path2.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\gold.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\lives.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\pauseButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\settingUiButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\statui.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\towersui.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder1.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder2.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\wave.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\waveui.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\x2Button.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\modeBg.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\backButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\easyButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\endlessButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\hardButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\normalButton.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\bite.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.wma
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.exe
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.pdb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.csprojResolveAssemblyReference.cache
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.exe
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.pdb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UIinfo.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UIstat.xnb
+C:\Users\jrsdhxs\Documents\1564874656498\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UITowers.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\exitButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\startButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\startScreenBg.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\chickenNormal.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_small.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyBack.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemyFront.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\EnemySprites\normalEnemySide.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\3-waypath.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\botcorner-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\corner-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile3.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\designtile4.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\h-path.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Tiles\v-path2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\gold.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\lives.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\normalTowerIcon.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\pauseButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\settingUiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\showHideUiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\statui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\towersui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder1.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\uiHolder2.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\wave.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\waveui.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\x2Button.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\TowerSprites\prjt_egg_medium.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\bg\modeBg.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\backButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\easyButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\endlessButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\hardButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\buttons\normalButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UIstat.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UITowers.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\UI\UIinfo.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\bite.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\Content\Sounds\BgMusic.wma
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\bin\x86\Debug\CockBlockDefense.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\CockBlockDefense (1)\CockBlockDefense\CockBlockDefense\obj\x86\Debug\CockBlockDefense.pdb

@@ -1,0 +1,27 @@
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Tutorial Series 1.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Tutorial Series 1.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Tutorial Series 1.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Tutorial Series 1.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Cake.xnb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Face.xnb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bite.xnb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.xnb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\Sub - Blog Projects\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.wma
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Cake.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Face.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bite.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\Yes.wma
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Tutorial Series 1.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Tutorial Series 1.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Tutorial Series 1.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\obj\x86\Debug\Tutorial Series 1.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\exitButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\buttons\startButton.xnb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Tutorial_Series_1-6\Tutorial Series 1\Tutorial Series 1\bin\x86\Debug\Content\bg\startScreenBg.xnb
